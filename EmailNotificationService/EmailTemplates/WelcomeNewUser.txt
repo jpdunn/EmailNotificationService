@@ -1,0 +1,9 @@
+Welcome aboard
+
+Dear [[FirstName]]
+
+Welcome to [[CompanyName]].
+We're really excited you've decided to give us a try. In case you have any questions, feel free to reach out to us at [[ContactEmail]]. You can login to your account with your username [[UserName]]
+
+Thanks,
+The [[CompanyName]] Team
